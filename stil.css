@@ -2,27 +2,27 @@
 /*CSS Document*/
 
 p{
-	color: white;
+	color: black;
 	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	font-size: 16px;
 	line-height: 18px;
 	width: 600px;
-	background-color: slateblue;
+	background-color: lightpink;
 	padding: 20px;
 	margin: 20px;
 	width: 50%;
 }
 
 .paragraf_2{
-	color: darkblue;
-	background-color: slateblue;
+	color: hotpink;
+	background-color: lightpink;
 	padding: 20px;
 	margin: 20px;
 	width: 50%;
 }
 
 .novi_blok{
-	background-color: slateblue;
+	background-color: lightpink;
 	padding: 20px;
 	margin: 20px;
 	width: 50%;
@@ -30,14 +30,15 @@ p{
 
 h1, h2{
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	color: white;
+	color: hotpink;
 	padding: 20px;
 	margin: 20px;
+	margin-top: 70px;
 	width: 50%;
 }
 
 span{
-	color: cadetblue;
+	color: hotpink;
 }
 
 .pozadina{
@@ -45,16 +46,24 @@ span{
 }
 
 a:link{
-	color: white;
-	padding: 5px;
+	color: hotpink;
+	padding: 20px;
+	margin: 20px;
 	line-height: 40px;
+	width: 50%;
 }
 
 a:hover{
-	background-color: white;
-	color: slateblue;
+	background-color: hotpink;
+	color:black;
 }
 
 img{
-	height: 250px;
+	height: 300px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.video{
+	margin: 20px;
 }
